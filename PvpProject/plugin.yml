@@ -1,0 +1,9 @@
+name: Pvp
+main: fr.mizakigaming.pvp.main.PvpMain
+author: MizakiGaming
+version: 1.0
+commands:
+  killstreak:
+    usage: /killstreak
+    description: active/désactive les killstreaks
+    permission: pvp.killstreak
